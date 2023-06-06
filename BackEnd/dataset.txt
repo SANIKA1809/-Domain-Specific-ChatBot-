@@ -1,0 +1,27 @@
+
+Keywords: Subjectivity, Text Mining, Natural Language Processing, Text Vectorization, Social Media
+1. Introduction
+Subjectivity refers to the idea that any opinion of an individual (or a collective) is shaped by its socio-cultural experience. The way one feels and reacts is affected by the social
+and cultural situations the subject has been exposed. Each subject has its own experience, creating their unique way to read
+the environment. This form of diversity affects different aspects of human life. For instance, political subjectivity is the
+set of thoughts, motivations, feelings that a social subject has
+within a society. This type of subjectivity determines the bias
+towards a political ideology (Ransom, 1997). According to
+Damasio (2018), subjectivity is the central constitutive element of consciousness. Without subjectivity, the individual is
+incapable of reflection and discernment and, therefore, is incapable of being creative.
+Subjectivity is also linked to emotions, as highlighted by
+Harré (1986), stating that emotions are the result of a social
+construction mechanism (“The social construction of emotions”). More recently, the anthropologist Tanya M. Luhrmann (2006) creates a theory of subjectivity with the help of
+a psychological model of emotion. Emotional responses are
+the consequence of the way the subject perceived an external
+stimulus. Due to subjectivity, this response occurs differently,
+depending on the subject perceiving it.
+Subjectivity has an impact in a wide variety of human activities and the criteria to determine it may be applied to evaluate a more general relative relevance of a context to evaluate
+text. We will provide some examples of this in the conclusions.
+In this paper, we use as a test case to evaluate our approach
+to value subjectivity in text analysis, the emotional reactions
+to a divisive political topic.
+We use emotions as an example of a criteria for subjective
+classifications, being emotions a quintessential example of
+subjectivity. For all intents and purposes, emotions are the
+"what" we want to evaluate, not the "how", that is the core of
